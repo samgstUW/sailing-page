@@ -1,3 +1,5 @@
+#Learn to Sail
+
 ### So you want to sail in the Ship Canal? 
 
 Learning to sail is a very unique skill. It is harder do than most people initially think.
