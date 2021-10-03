@@ -15,6 +15,11 @@ make sure you follow this guide and soon you too will know the thrill of traveli
 
 [Things you'll need to get started](list.md)
 
+[General Instruction](instructions.md)
+
+
+Good luck and happy sailing!
+
 
 
 
